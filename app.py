@@ -492,7 +492,7 @@ elif selected == "Download Results":
     st.markdown("Click below to download key plots:")
 
     # Download Elbow Plot
-    with open("elbow_plot.png", "rb") as file:
+    with open("images/elbow_plot.png", "rb") as file:
         st.download_button(
             label="Download Elbow Plot (PNG)",
             data=file,
