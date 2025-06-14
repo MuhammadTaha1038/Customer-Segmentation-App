@@ -502,7 +502,7 @@ elif selected == "Download Results":
 
     # Download Cluster Plot (2D/3D)
     if os.path.exists("images/cluster_plot.png"):
-        with open("cluster_plot.png", "rb") as file:
+        with open("images/cluster_plot.png", "rb") as file:
             st.download_button(
                 label="Download Cluster Visualization (PNG)",
                 data=file,
