@@ -2,7 +2,6 @@
   <img src="images/thumbnail.png" alt="Customer Segmentation Dashboard" width="800"  style="border: 2px solid black; border-radius: 5px;" />
 </p>
 
-#  Customer Segmentation Dashboard with KMeans
 
 Welcome to the **Customer Segmentation Dashboard**, a user-friendly web application powered by data science and machine learning. It helps businesses understand different types of customers based on their age, income, and spending behavior, so they can target them more effectively with tailored strategies.
 
