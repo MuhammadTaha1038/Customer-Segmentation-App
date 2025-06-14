@@ -90,7 +90,7 @@ except FileNotFoundError:
     st.warning('Model is not found, plz save the model first.')
 df = pd.read_csv("data/Mall_Customers.csv")
 try :
-    scaler = joblib.load("model/scaler.pkl")
+    scaler = joblib.load("models/scaler.pkl")
 except FileNotFoundError:
     st.warning('Scalar object is not found, plz save the object first.')
 scaled_features = scaler.fit_transform(df[['Age', 'Annual Income (k$)', 'Spending Score (1-100)']])
