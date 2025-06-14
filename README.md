@@ -111,7 +111,7 @@ This app is perfect for:
 
 - Businesses making data-driven customer decisions
 
-### Connect with me
+## Connect with me
 Name: Muhammad Taha \
 Email: contact.taha2005@gmail.com
 
