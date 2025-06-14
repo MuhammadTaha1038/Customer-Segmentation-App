@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Customer Segmentation Dashboard" width="800"  style="border: 2px solid black; border-radius: 5px;" />
+  <img src="images/thumbnail.png" alt="Customer Segmentation Dashboard" width="800"  style="border: 2px solid black; border-radius: 5px;" />
 </p>
 
 #  Customer Segmentation Dashboard with KMeans
@@ -28,12 +28,12 @@ This project uses **KMeans Clustering**, a popular machine learning technique, t
 ##  Project Structure
 
 ├── app.py       
-├── customer_segmentation.ipynb  
-├── customer_segments.csv
-├── kmeans_customer_segmentation.pkl
-├── requirements.txt
-├── thumbnail.jpg
-├── README.md 
+├── customer_segmentation.ipynb /
+├── customer_segments.csv /
+├── kmeans_customer_segmentation.pkl /
+├── requirements.txt /
+├── thumbnail.jpg /
+├── README.md  
 
 
 ---
