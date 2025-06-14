@@ -24,18 +24,7 @@ This project uses **KMeans Clustering**, a popular machine learning technique, t
 
 ---
 
-##  Project Structure
 
-├── app.py       
-├── customer_segmentation.ipynb /
-├── customer_segments.csv /
-├── kmeans_customer_segmentation.pkl /
-├── requirements.txt /
-├── thumbnail.jpg /
-├── README.md  
-
-
----
 
 ##  Dashboard Features
 
