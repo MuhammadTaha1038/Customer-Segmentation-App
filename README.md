@@ -39,6 +39,8 @@ This project uses **KMeans Clustering**, a popular machine learning technique, t
 | **About**                   | Project info, author links, and tools used |
 
 ---
+#  [Click Here](https://customer-segmentation-app-o5appy3lbt2rxezkdgdbfg2.streamlit.app/) to explore the App.
+---
 
 ##  Jupyter Notebook Capabilities
 
